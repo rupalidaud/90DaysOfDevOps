@@ -1,1 +1,35 @@
 
+What is DevOps?
+
+The term DevOps is a combination of two words that is development and operations.
+
+DevOps is a methodology that allows a single team to manage the entire application development life cycle, that is development, testing deployment and operations.
+
+DevOps is a software development approach through which superior quality software can be developed quickly & with more reliability.
+
+What is Automation, Scaling and Infrastructure?
+1) Automation
+Automation can reduce time consumption, especially during the testing and deployment phase. The productivity increases and releases are made quicker by automation. This will lead to catching bugs quickly so that can be fixed easily. For contiguous delivery, each code is defined through automated tests, cloud-based services, and builds. This promotes production using automated deploys.
+
+2) Scaling
+Scaling provides users with an automated approach to increase or decrease the compute, memory or networking resources they have allocated, as traffic spikes and use patterns demand. Without autoscaling, resources are locked into a particular configuration that provides a preset value for memory, CPU and networking that does not expand as demand grows and does not contract when there is less demand.
+
+3) Infrastructure
+Infrastructure automation is the process of reducing human interaction with IT systems by creating scripts or functions that are repeatable and can be used either by other software or on command.
+
+Why DevOps is Important?
+Reduced time to market
+One of the key reasons why DevOps is important for your business is that your software can be delivered faster thanks to streamlined processes, proper automation, systematic release planning, and more. Faster time to market means you have a chance to outrun your competitors.
+
+Faster innovation
+You can innovate faster than your competitors thanks to faster product delivery to the market. The DevOps culture also allows the team to offer ground-breaking ideas more freely and share their thoughts in continuous communication.
+
+Increased efficiency in development
+Software engineers do not need to spend time on tasks that are perfectly automated in DevOps. The amount of manual work is minimum. Parallel workflows, acceleration tools, scalable infrastructure, continuous integration servers, and much more contribute to efficient development and reliable deployment.
+
+Higher reliability
+The development, deployment, and other processes become more predictable and error-free. With shorter development cycles ensured by DevOps and continuous testing, the team can spot any inconsistencies or defects in the software in a timely manner. Thanks to good collaboration and exchange of experience, it’s easy to quickly resolve them. It’s also incredibly easy to roll back a deploy at any time.
+
+Customer satisfaction
+Another huge reason why DevOps is important is that the customer-centric approach, regular feedback, faster delivery to the market, and constant improvement all contribute to the most satisfying results in software development.
+
