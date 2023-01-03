@@ -1,0 +1,58 @@
+What is Linux?
+
+Linux is an operating system that sits in the middle of your hardware and user.
+
+Linux is used by many developers communities or companies.
+
+Linux basic command -
+
+date - show the current date and time
+cal - show this month's calendar
+
+uptime - show current uptime
+
+who/w - display who is online
+
+whoami - who are you logged in as
+
+user/id - show user information
+
+Listing and viewing commands -
+ls = directory listing
+
+ls -la = list of all files and directories, hidden files and directory
+
+cat filename = view file content
+
+less = view file page by page
+
+more = output contains of the file
+
+page = display file page by page
+
+Directory commands-
+pwd =to show the present working directory
+
+cd =switch between directories.
+
+cd / = goto home directory
+
+cd .. = back one directory
+
+Create and delete file and directory-
+touch = create a 0 bits file(empty file).
+
+cat >filename -create the file and allow to write.
+
+rm = remove file.
+
+rm -rf =remove all the files or directory.
+
+mkdir = create a directory.
+
+mkdir dir1 dir2 dir3 =create multiple directories at the same time.
+
+mkdir -p dir1 dir2 dir3 =create multiple nested directory.
+
+rmdir = remove a directory.
+
